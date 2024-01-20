@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mantine-Tabs-tabsList {
+  border-bottom: 1px solid black;
+}
